@@ -1,0 +1,6 @@
+{
+  "name": "AURA | Indian Fine Dining",
+  "description": "Where Indian Flavours Meet Modern Elegance. Premium Indian fine dining restaurant in Visakhapatnam, Andhra Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
